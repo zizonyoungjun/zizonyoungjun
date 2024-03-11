@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Youngjun Han 🎸🧙‍♂️
+- Web Frontend Developer
+- Hankuk University of Foreign Studies (HUFS)
 <!--
 **zizonyoungjun/zizonyoungjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
