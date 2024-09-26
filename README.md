@@ -1,6 +1,10 @@
 ### Youngjun Han 🎸🧙‍♂️
 - Web Frontend Developer 🔜 Engineer
 - Hankuk University of Foreign Studies (HUFS) 🦉
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{zizonyoungjun}?pet-id=1" width="1000" height="120"/>
+</a>
 <!--
 **zizonyoungjun/zizonyoungjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
